@@ -10,3 +10,5 @@ html转图片或PDF比较
 
 ## 转PDF
 - itext
+
+按照性能看准备选择xhtmlrenderer
